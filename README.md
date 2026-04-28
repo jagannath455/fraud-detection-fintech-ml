@@ -195,11 +195,9 @@ Brake Systems Design Manager | Aspiring Data Scientist
 BS Data Science & Applications — IIT Madras  
 🔍 Targeting: FinTech | Risk Analytics | AI/ML Engineering  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/yourprofile)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/yourusername)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](linkedin.com/in/jagannath-r-34a061120)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/jagannath455)
 
 ---
 
-## 📄 License
 
-MIT License — free to use with attribution.
